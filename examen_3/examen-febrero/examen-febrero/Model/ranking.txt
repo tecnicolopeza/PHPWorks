@@ -1,0 +1,20 @@
+Ranking de jugadores del World Padel Tour
+1,ss,345960
+2,Visconti Van Gogh,345564
+3,raton,345453
+4,Agustín Tapia,345452
+5,manuel,345449
+6,sadsa,345373
+7,manuel,345373
+8,Pablo Lima,345373
+9,Franco Stupaczuk,345373
+10,Agustín Tapia,345373
+11,Francisco Navarro,345373
+12,Fernando Belasteguín,345373
+13,Juan Lebrón,345373
+14,Carlos Daniel Gutiérrez,345373
+15,Alejandro Galán,345373
+16,Federico Chingotto,345373
+17,Alejandro Ruiz Granados,345373
+18,lolita,234254
+19,lola,300

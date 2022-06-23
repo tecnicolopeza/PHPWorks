@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tienda {
+    width: 75%;
+    height: 200px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cesta {
+    width: 25%;
+    height: 200px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+table th,
+tr,
+td {
+    border: 2px solid black;
+    width: 20%;
+}
+
+th {
+    background-color: beige;
+}
+
+table img {
+    width: 150px;
+    margin: 0 auto;
+}
+
+input[type=submit] {
+    padding: 1em 0.5em;
+}
+
+input[type=submit]:hover {
+    cursor: pointer;
+}

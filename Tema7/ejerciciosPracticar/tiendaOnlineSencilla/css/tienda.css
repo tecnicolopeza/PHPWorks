@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 62.5%;
+    color: white;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.imagen-producto {
+    width: 400px;
+    height: 100px;
+}
+
+.imagen-carrito {
+    width: 200px;
+    height: 50px;
+}
+
+main {
+    background-color: rgb(110, 184, 249);
+    width: 70%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: cornflowerblue;
+    padding: 1rem;
+    color: white;
+}
+
+header p {
+    margin-top: 0.5rem;
+}
+
+header span {
+    /* color: #0ad614; */
+    font-weight: bold;
+}
+
+.contenido {
+    display: flex;
+}
+
+.tienda {
+    padding: 1rem 2rem;
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-basis: 70%;
+}
+
+.tienda p {
+    text-align: left;
+    color: white;
+}
+
+.tienda h1 {
+    margin-bottom: 1rem;
+}
+
+.tienda img {
+    margin-top: 1rem;
+}
+
+.carrito {
+    padding: 1rem 1rem;
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.carrito p {
+    text-align: left;
+    color: white;
+}
+
+.carrito img {
+    margin-top: 1rem;
+}
+
+input[type=button],
+input[type=submit] {
+    color: black;
+}
+
+input[type=button],
+input[type=submit]:hover {
+    cursor: pointer;
+}

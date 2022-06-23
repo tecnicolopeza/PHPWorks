@@ -1,0 +1,4 @@
+raton, 15, raton óptico, img/raton.png
+teclado, 25, teclado gaming, img/teclado.png
+pantalla, 70, pantalla 30 pulgadas, img/pantalla.png
+mando, 20, mando compatible con pc/playstation/xbox, img/mando.png

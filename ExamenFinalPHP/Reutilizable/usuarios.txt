@@ -1,0 +1,5 @@
+Alvaro, admin
+Amanda, user
+juancarlos, admin
+Fernando, profesor
+Luisa, user

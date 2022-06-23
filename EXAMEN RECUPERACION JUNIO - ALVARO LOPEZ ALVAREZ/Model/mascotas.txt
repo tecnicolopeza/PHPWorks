@@ -1,0 +1,6 @@
+dartacan, perro
+LASY, perro
+MICKEY, roedor
+calimero, ave
+tom, gato
+jERRY, roedor
